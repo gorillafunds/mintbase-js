@@ -1004,6 +1004,14 @@ export class Wallet {
   }
 
   /**
+   * Batch mint serveral tokens
+   */
+   public batchMint(
+  ): void {
+    console.log("Hello")
+  }
+
+  /**
    * Mint more pieces of tokens of a thing.
    * @param amount The number of tokens to mint.
    * @param id The thing id
