@@ -1,0 +1,1 @@
+{"version":3,"file":"responseBuilder.js","sourceRoot":"","sources":["../../src/utils/responseBuilder.ts"],"names":[],"mappings":";;;AAWO,MAAM,cAAc,GAAG,CAAI,MAAyB,EAAmB,EAAE;IAC9E,MAAM,EAAE,IAAI,GAAG,EAAO,EAAG,KAAK,GAAG,EAAE,EAAE,GAAG,MAAM,CAAA;IAE9C,OAAO;QACL,IAAI;QACJ,KAAK;KACN,CAAA;AACH,CAAC,CAAA;AAPY,QAAA,cAAc,kBAO1B"}
